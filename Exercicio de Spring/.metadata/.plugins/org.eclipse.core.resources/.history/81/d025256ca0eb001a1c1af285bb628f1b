@@ -1,0 +1,5 @@
+package com.respostaquest.questao.controller;
+
+public class QuestaoController {
+
+}
