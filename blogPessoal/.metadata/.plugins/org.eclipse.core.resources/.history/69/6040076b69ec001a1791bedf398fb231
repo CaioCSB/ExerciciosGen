@@ -1,0 +1,5 @@
+jpa.hibernate.ddl-auto=update
+spring.main.web-application-type=none
+spring.datasource.url=jdbc:mysql://127.0.0.1:3306/user=root/blog_pessoal?createDatabaseIfNotExist=true&serverTimezone=UTC&useSSl=false
+spring.datasource.password=root  
+.jpa.show-sql=true
