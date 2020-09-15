@@ -1,0 +1,5 @@
+package com.redeSocial.graminsta.repository;
+
+public interface UsuarioRepository {
+
+}

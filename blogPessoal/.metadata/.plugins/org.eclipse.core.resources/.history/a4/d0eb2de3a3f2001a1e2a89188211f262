@@ -1,0 +1,5 @@
+package com.redeSocial.graminsta.model;
+
+public class Postagem {
+
+}

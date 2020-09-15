@@ -1,0 +1,5 @@
+package com.farmacia.loja.repository;
+
+public interface PostagemRepository {
+
+}

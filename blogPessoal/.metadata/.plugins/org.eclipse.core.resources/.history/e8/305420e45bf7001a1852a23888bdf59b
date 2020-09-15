@@ -1,0 +1,5 @@
+package com.redeSocial.graminsta.service;
+
+public class UsuarioService {
+
+}

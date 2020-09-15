@@ -2,7 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\caioc\Desktop\blogPessoal\blogPessoal"/>
+			<item value="C:\Users\caioc\Desktop\graminsta\graminsta"/>
+			<item value="C:\Users\caioc\Desktop\graminsta"/>
+			<item value="C:\Users\caioc\Desktop\loja\loja"/>
+			<item value="C:\Users\caioc\Desktop\primeiroex\primeiroex"/>
+			<item value="C:\Users\caioc\Desktop\crud\crud"/>
+			<item value="C:\Users\caioc\Desktop\Trabalhos Generation\Exercícios para o github\blogPessoal"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
